@@ -1,0 +1,52 @@
+{"frames": {
+
+"Game_Logo":
+{
+	"frame": {"x":0,"y":315,"w":1056,"h":757},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1056,"h":757},
+	"sourceSize": {"w":1056,"h":757}
+},
+"Loading..._text":
+{
+	"frame": {"x":0,"y":0,"w":124,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":26},
+	"sourceSize": {"w":124,"h":26}
+},
+"Loading_bar_design_3":
+{
+	"frame": {"x":124,"y":0,"w":1029,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1029,"h":105},
+	"sourceSize": {"w":1029,"h":105}
+},
+"Loading_bar_empty_1":
+{
+	"frame": {"x":0,"y":105,"w":1029,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1029,"h":105},
+	"sourceSize": {"w":1029,"h":105}
+},
+"Loading_bar_fill_2":
+{
+	"frame": {"x":0,"y":210,"w":1029,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1029,"h":105},
+	"sourceSize": {"w":1029,"h":105}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "preloader-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1153,"h":1072},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:319058ee8bd8929eafeb949163c7773e:39bf3736e798480b577e21049b779cd9:666e752c69c4fb1495e9d07b86c88aa8$"
+}
+}

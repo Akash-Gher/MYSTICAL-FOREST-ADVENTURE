@@ -1,0 +1,111 @@
+{"frames": {
+
+"symbol0":
+{
+	"frame": {"x":249,"y":453,"w":215,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":215,"h":213},
+	"sourceSize": {"w":224,"h":213}
+},
+"symbol1":
+{
+	"frame": {"x":1,"y":468,"w":238,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":238,"h":232},
+	"sourceSize": {"w":238,"h":237}
+},
+"symbol2":
+{
+	"frame": {"x":252,"y":1,"w":224,"h":213},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":213},
+	"sourceSize": {"w":224,"h":213}
+},
+"symbol3":
+{
+	"frame": {"x":252,"y":227,"w":224,"h":213},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":213},
+	"sourceSize": {"w":224,"h":213}
+},
+"symbol4":
+{
+	"frame": {"x":1,"y":702,"w":238,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":238,"h":226},
+	"sourceSize": {"w":253,"h":238}
+},
+"symbol5":
+{
+	"frame": {"x":241,"y":668,"w":142,"h":215},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":16,"w":142,"h":215},
+	"sourceSize": {"w":245,"h":270}
+},
+"symbol6":
+{
+	"frame": {"x":1,"y":936,"w":143,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":20,"w":143,"h":211},
+	"sourceSize": {"w":245,"h":270}
+},
+"symbol7":
+{
+	"frame": {"x":241,"y":812,"w":122,"h":213},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":40,"w":122,"h":213},
+	"sourceSize": {"w":245,"h":270}
+},
+"symbol8":
+{
+	"frame": {"x":146,"y":936,"w":121,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":23,"w":121,"h":208},
+	"sourceSize": {"w":245,"h":270}
+},
+"symbol9":
+{
+	"frame": {"x":269,"y":936,"w":189,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":29,"w":189,"h":201},
+	"sourceSize": {"w":245,"h":270}
+},
+"symbol10":
+{
+	"frame": {"x":1,"y":1,"w":249,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":29,"w":249,"h":231},
+	"sourceSize": {"w":299,"h":284}
+},
+"symbol11":
+{
+	"frame": {"x":1,"y":234,"w":232,"h":246},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":2,"w":232,"h":246},
+	"sourceSize": {"w":254,"h":250}
+}},
+"animations": {
+	"symbol": ["symbol0","symbol1","symbol2","symbol3","symbol4","symbol5","symbol6","symbol7","symbol8","symbol9","symbol10","symbol11"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "symbols.png",
+	"format": "RGBA8888",
+	"size": {"w":466,"h":1148},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e42f94e415e984f948ab4167c01d5ff6:e9b54315cb58b6b761a821f162df5381:d295ed7153fe372207e34d26d380974a$"
+}
+}

@@ -1,0 +1,24 @@
+Cash Value-regular.png
+size:4096,1024
+filter:Linear,Linear
+1x_partile2
+bounds:3385,272,604,579
+rotate:90
+1x_partiles
+bounds:2149,260,616,617
+rotate:90
+1x_partiles2
+bounds:2768,262,614,615
+rotate:90
+_rays
+bounds:3688,91,177,179
+dots
+bounds:3385,2,301,268
+leaf
+bounds:1510,239,637,637
+leaf_glow
+bounds:867,235,641,641
+leaf_glow2
+bounds:2,19,863,857
+star
+bounds:3688,47,42,42
